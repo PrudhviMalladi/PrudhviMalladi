@@ -1,5 +1,5 @@
-### Hi there 👋
-This is Prudhvi. 
+### Hi there 👋       
+This is Prudhvi. 👨‍💻
 <!--
 **PrudhviMalladi/PrudhviMalladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->                                                                                                                      ![image](https://user-images.githubusercontent.com/64424204/157174517-cd860412-56c1-4096-b181-a294ba6896e6.png)
-
+ ![This is an image](![image](https://user-images.githubusercontent.com/64424204/157175038-edce057b-8532-4f57-b282-5eebb3b63087.png)
