@@ -4,7 +4,7 @@ Hola 👋 My name is Prudhvi Malladi
 Web Developer
 -------------
 
-* 🌍  I'm based in INDIA
+* 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [prudhvi2698@gmail.com](mailto:prudhvi2698@gmail.com)
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Backend Development
