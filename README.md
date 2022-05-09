@@ -1,4 +1,4 @@
-Hola 👋 My name is Prudhvi Malladi
+Hola, 👋 My name is Prudhvi Malladi
 ================================
 
 Web Developer
