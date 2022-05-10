@@ -20,6 +20,8 @@ src="https://img.shields.io/twitter/follow/malladi_prudhvi?logo=twitter&style=fo
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+![image](https://user-images.githubusercontent.com/64424204/167559301-8b13e36a-7348-4732-a7e8-9e9c24c01b17.png)
+
 
 
 ### Socials
