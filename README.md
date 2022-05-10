@@ -4,7 +4,9 @@ Hola, 👋 My name is Prudhvi Malladi
 { Web Developer };
 ------------------
 
-🔭 I’m currently working on - Web Development🤓 🌱 I’m currently learning - HTML, React js. 🤝 I'm open to collaborating on Backend Development.
+🔭 I’m currently working on - Web Development🤓 
+🌱 I’m currently learning - HTML, React js. 
+🤝 I'm open to collaborating on Backend Development.
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [prudhvi2698@gmail.com](mailto:prudhvi2698@gmail.com)
