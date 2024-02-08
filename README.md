@@ -13,6 +13,7 @@ Hola, 👋 My name is Prudhvi Malladi
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [prudhvi2698@gmail.com](mailto:prudhvi2698@gmail.com)
 * ⚡  Fun Fact : I love Books
+* https://leetcode.com/Prudhvi_2699/
 
 ### Skills
 
